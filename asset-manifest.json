@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.9499f742.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.0f2ac1b0.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.0f2ac1b0.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.5b274aef.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.5b274aef.js.map",
+    "static/js/2.cb70f0a3.chunk.js": "/portfolio-react/static/js/2.cb70f0a3.chunk.js",
+    "static/js/2.cb70f0a3.chunk.js.map": "/portfolio-react/static/js/2.cb70f0a3.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.9499f742.chunk.css.map": "/portfolio-react/static/css/main.9499f742.chunk.css.map",
+    "static/js/2.cb70f0a3.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.cb70f0a3.chunk.js.LICENSE.txt",
+    "static/media/style.min.css": "/portfolio-react/static/media/Poppins-ThinItalic.737d642b.eot",
+    "static/media/cuba.1e7bf968.webp": "/portfolio-react/static/media/cuba.1e7bf968.webp",
+    "static/media/all.min.css": "/portfolio-react/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/ice-bear-ninja.c9f0fb36.webp": "/portfolio-react/static/media/ice-bear-ninja.c9f0fb36.webp",
+    "static/media/ice-bear-seal.dfeda118.webp": "/portfolio-react/static/media/ice-bear-seal.dfeda118.webp",
+    "static/media/itStudio.77f8cafd.webp": "/portfolio-react/static/media/itStudio.77f8cafd.webp",
+    "static/media/mavic.fc2ff352.webp": "/portfolio-react/static/media/mavic.fc2ff352.webp",
+    "static/media/min-obraz.d6cce181.webp": "/portfolio-react/static/media/min-obraz.d6cce181.webp",
+    "static/media/online-store.2d83c06d.webp": "/portfolio-react/static/media/online-store.2d83c06d.webp",
+    "static/media/portfolio.aefb26b4.webp": "/portfolio-react/static/media/portfolio.aefb26b4.webp",
+    "static/media/repair.31fb47c9.webp": "/portfolio-react/static/media/repair.31fb47c9.webp",
+    "static/media/streetster.08f14c8f.webp": "/portfolio-react/static/media/streetster.08f14c8f.webp",
+    "static/media/todo.3218002d.webp": "/portfolio-react/static/media/todo.3218002d.webp",
+    "static/media/waxom.2aff1441.webp": "/portfolio-react/static/media/waxom.2aff1441.webp",
+    "static/media/weather.0b2969c6.webp": "/portfolio-react/static/media/weather.0b2969c6.webp",
+    "static/media/witcher.b4e02af1.webp": "/portfolio-react/static/media/witcher.b4e02af1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b274aef.js",
+    "static/js/2.cb70f0a3.chunk.js",
+    "static/css/main.9499f742.chunk.css",
+    "static/js/main.0f2ac1b0.chunk.js"
+  ]
+}
