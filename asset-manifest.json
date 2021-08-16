@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.cbecd05b.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.42bd8201.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.42bd8201.chunk.js.map",
-    "runtime-main.js": "/portfolio-react/static/js/runtime-main.4ea2dba9.js",
-    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.4ea2dba9.js.map",
-    "static/js/2.3e1d05cf.chunk.js": "/portfolio-react/static/js/2.3e1d05cf.chunk.js",
-    "static/js/2.3e1d05cf.chunk.js.map": "/portfolio-react/static/js/2.3e1d05cf.chunk.js.map",
+    "main.css": "/portfolio-react/static/css/main.5a9b6a51.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.9a2bdb4e.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.9a2bdb4e.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.76f6ebfb.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.76f6ebfb.js.map",
+    "static/js/2.781f1436.chunk.js": "/portfolio-react/static/js/2.781f1436.chunk.js",
+    "static/js/2.781f1436.chunk.js.map": "/portfolio-react/static/js/2.781f1436.chunk.js.map",
     "index.html": "/portfolio-react/index.html",
-    "static/css/main.cbecd05b.chunk.css.map": "/portfolio-react/static/css/main.cbecd05b.chunk.css.map",
-    "static/js/2.3e1d05cf.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.3e1d05cf.chunk.js.LICENSE.txt",
+    "static/css/main.5a9b6a51.chunk.css.map": "/portfolio-react/static/css/main.5a9b6a51.chunk.css.map",
+    "static/js/2.781f1436.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.781f1436.chunk.js.LICENSE.txt",
     "static/media/style.min.css": "/portfolio-react/static/media/Poppins-ThinItalic.737d642b.eot",
     "static/media/cuba.1e7bf968.webp": "/portfolio-react/static/media/cuba.1e7bf968.webp",
-    "static/media/all.min.css": "/portfolio-react/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/all.min.css": "/portfolio-react/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/ice-bear-ninja.c9f0fb36.webp": "/portfolio-react/static/media/ice-bear-ninja.c9f0fb36.webp",
     "static/media/ice-bear-seal.dfeda118.webp": "/portfolio-react/static/media/ice-bear-seal.dfeda118.webp",
     "static/media/itStudio.77f8cafd.webp": "/portfolio-react/static/media/itStudio.77f8cafd.webp",
@@ -28,9 +28,9 @@
     "static/media/witcher.b4e02af1.webp": "/portfolio-react/static/media/witcher.b4e02af1.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ea2dba9.js",
-    "static/js/2.3e1d05cf.chunk.js",
-    "static/css/main.cbecd05b.chunk.css",
-    "static/js/main.42bd8201.chunk.js"
+    "static/js/runtime-main.76f6ebfb.js",
+    "static/js/2.781f1436.chunk.js",
+    "static/css/main.5a9b6a51.chunk.css",
+    "static/js/main.9a2bdb4e.chunk.js"
   ]
 }
